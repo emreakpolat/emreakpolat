@@ -6,6 +6,7 @@
 
 - 📫 How to reach me **emreakpolat3@gmail.com**
 - 💻 I'm working on the minishell project right now
+- If you want to see my projects feel free to contact me!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
