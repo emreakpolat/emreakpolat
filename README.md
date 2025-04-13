@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreakpolat&show_icons=true&locale=en&layout=compact" alt="emreakpolat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreakpolat&show_icons=true&theme=tokyonight&bg_color=000000&locale=en" alt="emreakpolat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreakpolat&theme=highcontrast" alt="emreakpolat" /></p>
