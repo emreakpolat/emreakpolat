@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">I am a student 42İstanbul and İstanbul Gedik University in Turkey 🇹🇷</h3>
+<h3 align="center">I am a student 42İstanbul and İstanbul Gedik University 🇹🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreakpolat&label=Profile%20views&color=00ff11&style=flat" alt="emreakpolat" /> </p>
 
